@@ -47,7 +47,7 @@ Dataset
 
 The project uses the Brazilian E-Commerce Public Dataset by Olist.
 
-Dataset Source: "Olist Brazilian E-Commerce Dataset – Kaggle" (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Dataset Source: "Olist Brazilian E-Commerce Dataset – Kaggle"
 
 Project Outcome
 
